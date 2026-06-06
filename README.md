@@ -1,7 +1,7 @@
 # Customer Spending Analysis and Sales Regression
  
 ## Overview
-This project analyzes the relationship between customer demographics and monthly spending patterns to help a retail store optimize its sales strategies. Using a dataset of 100 customers, the analysis explores how age, income, gender, and region influence spending behavior, culminating in a multiple linear regression model that identifies the key drivers of monthly spend.
+This project analyzes the relationship between customer demographics and monthly spending patterns to help a retail store better understand customers and optimize its sales strategies. Using a dataset of 100 customers, the analysis explores how age, income, gender, and region influence spending behavior, running a multiple linear regression model to identify the key drivers of monthly spend.
  
 ## Objectives
 - Extract and preprocess customer transaction data from a JSON file
